@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **flutter,dart,sql**
 
-- 📫 How to reach me **ruchipratihast@gmail.com**
+- 📫 How to reach me **ruchipratihast99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
