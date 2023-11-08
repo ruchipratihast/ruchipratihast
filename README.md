@@ -1,4 +1,4 @@
-<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=)" alt="coding" />
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffemale-programmer&psig=AOvVaw2SXKAZ64En_en3dHKRh_AO&ust=1699506932961000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPCs8vHSs4IDFQAAAAAdAAAAABAZ" alt="coding" />
 
 <h1 align="center">नमस्ते (Namastey)🙏, I'm Ruchi Kumari</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ruchipratihast" target="blank"><img src="https://img.shields.io/twitter/follow/ruchipratihast?logo=twitter&style=for-the-badge" alt="ruchipratihast" /></a> </p>
 
-- 🔭 I’m currently working on **Froentend Developer**
+- 🔭 I’m currently working on **Front-end Developer**
 
 - 🌱 I’m currently learning **How to write clean code**
 
