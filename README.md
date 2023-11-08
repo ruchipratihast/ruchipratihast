@@ -1,6 +1,5 @@
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffemale-programmer&psig=AOvVaw2SXKAZ64En_en3dHKRh_AO&ust=1699506932961000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPCs8vHSs4IDFQAAAAAdAAAAABAZ" alt="coding" />
-
 <h1 align="center">नमस्ते (Namastey)🙏, I'm Ruchi Kumari</h1>
+<h2>Programming is thinking, not typing!</h2>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchipratihast&label=Profile%20views&color=0e75b6&style=flat" alt="ruchipratihast" /> </p>
