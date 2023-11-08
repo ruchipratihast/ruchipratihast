@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **How to write clean code**
 
-- 💬 Ask me about **flutter,dart,sql**
+- 💬 Ask me about **flutter,dart,sql,javascript,React**
 
 - 📫 How to reach me **ruchipratihast99@gmail.com**
 
