@@ -1,5 +1,4 @@
 <h1 align="center">नमस्ते (Namastey)🙏, I'm Ruchi Kumari</h1>
-<h2>Programming is thinking, not typing!</h2>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchipratihast&label=Profile%20views&color=0e75b6&style=flat" alt="ruchipratihast" /> </p>
