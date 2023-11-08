@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ruchi Kumari</h1>
+<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=)" alt="coding" />
+
+<h1 align="center">नमस्ते (Namastey)🙏, I'm Ruchi Kumari</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchipratihast&label=Profile%20views&color=0e75b6&style=flat" alt="ruchipratihast" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ruchipratihast" target="blank"><img src="https://img.shields.io/twitter/follow/ruchipratihast?logo=twitter&style=for-the-badge" alt="ruchipratihast" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Developer**
+- 🔭 I’m currently working on **Froentend Developer**
 
-- 🌱 I’m currently learning **React.js,MongoDB,Backend Web Development**
+- 🌱 I’m currently learning **How to write clean code**
 
 - 💬 Ask me about **flutter,dart,sql**
 
