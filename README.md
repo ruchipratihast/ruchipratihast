@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ruchipratihast" target="blank"><img src="https://img.shields.io/twitter/follow/ruchipratihast?logo=twitter&style=for-the-badge" alt="ruchipratihast" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end Developer**
+- 🔭 I’m currently working on **full stack web development**
 
 - 🌱 I’m currently learning **How to write clean code**
 
