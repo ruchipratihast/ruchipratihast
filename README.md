@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **How to write clean code**
 
-- 💬 Ask me about **javascript,React JS,Express & Elysia,Next Js,Bun,Node,Postgres,Stripe,Flutter,Websockets**
+- 💬 Ask me about **javascript, React JS, Express & Elysia, Node, Postgres, C#, ASP.NET, Stripe, Websockets**
 
 - 📫 How to reach me **ruchipratihast99@gmail.com**
 
