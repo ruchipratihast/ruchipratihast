@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ruchipratihast" target="blank"><img src="https://img.shields.io/twitter/follow/ruchipratihast?logo=twitter&style=for-the-badge" alt="ruchipratihast" /></a> </p>
 
-- 🔭 I’m currently working on **full stack web development**
+- 🔭 I’m currently working on **full stack development**
 
 - 🌱 I’m currently learning **How to write clean code**
 
-- 💬 Ask me about **javascript, React JS, Express & Elysia, Node, Postgres, C#, ASP.NET, Stripe, Websockets**
+- 💬 Ask me about **javascript, React JS, Angular, Postgres, C#, ASP.NET, Entity Framework**
 
-- 📫 How to reach me **ruchipratihast99@gmail.com**
+- 📫 How to reach me **ruchikumari2217@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
